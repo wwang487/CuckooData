@@ -1,2 +1,2 @@
 # CuckooData
-The sample outputs for cuckoo-host simulation
+The code, input, tutorial, and sample output for cuckoo-host simulation
